@@ -1,2 +1,2 @@
 # RFM-Analysis-Project
-Customer segmentation using RFM Analysis
+RFM Analysis is a marketing analytics practice that is used by data scientists to help with segmenting customers based off of their buying behaviors. RFM stands for Recency, Frequency, and Monetary Value. Recency looks at the date in which a customer made their last purchase. Frequency is defined by my how often a given customer makes purchases and monetary Value is the amount of money spent on purchases. Through RFM A  nalysis companies can gain insight into customer engagement and the value that provide to the business. This project applies this concept to two years worth of online transaction data. 
